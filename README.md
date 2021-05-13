@@ -1,5 +1,5 @@
 <h2> Result 📄 </h2>
-![image](https://user-images.githubusercontent.com/50447682/118081664-c5fdbf80-b3f6-11eb-8e22-e5447573acdd.png)
+<img src="https://user-images.githubusercontent.com/50447682/118081664-c5fdbf80-b3f6-11eb-8e22-e5447573acdd.png">
 
 
 <br><br>
